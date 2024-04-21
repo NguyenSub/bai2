@@ -1,0 +1,10 @@
+.rcm {
+    border: 1px dashed red;
+    border-radius: 5px;
+}
+.wish {
+    border: 1px dashed red;
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+}
